@@ -11,3 +11,4 @@
 
 - [스택과 큐](https://yunsikus.github.io/algorithm/2021/06/26/%EC%8A%A4%ED%83%9D%EA%B3%BC_%ED%81%90/)
   - [프로그래머스 기능개발](https://yunsikus.github.io/algorithm/2021/06/26/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C/)
+  - [프로그래머스 프린터](https://yunsikus.github.io/algorithm/2021/06/27/%ED%94%84%EB%A6%B0%ED%84%B0/)

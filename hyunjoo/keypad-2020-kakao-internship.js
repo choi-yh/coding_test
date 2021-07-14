@@ -62,4 +62,49 @@ function solution(numbers, hand) {
 }
 
 // 2. After refering
-// TODO
+// https://programmers.co.kr/learn/courses/30/lessons/67256/solution_groups?language=javascript
+// The key idea is that the x-axis distance is ZERO when it's the middle of column-2,5,8, and
+// same distance which is ONE in both side columns.
+
+function solution(numbers, hand) {
+  hand = hand[0] === "r" ? "R" : "L";
+  const ROW = [1, 4, 4, 4, 3, 3, 3, 2, 2, 2]; // row number of 0 - 9 (y axis)
+  const COLUMN = {
+    CENTER: 0,
+    SIDE: 1,
+  };
+  let h = { L: { x: COLUMN.SIDE, y: 1 }, R: { x: COLUMN.SIDE, y: 1 } };
+
+  return numbers
+    .map((num) => {
+      if (/[147]/.test(num)) {
+        // Left numbers
+        h.L.x = COLUMN.SIDE;
+        h.L.y = ROW[num];
+        return "L";
+      } else if (/[369]/.test(num)) {
+        // Right numbers
+        h.R.x = COLUMN.SIDE;
+        h.R.y = ROW[num];
+        return "R";
+      } else {
+        // Middle numbers
+        const distL = Math.abs(ROW[num] - h.L.y) + h.L.x;
+        const distR = Math.abs(ROW[num] - h.R.y) + h.R.x;
+        if (distL === distR) {
+          h[hand].x = COLUMN.SIDE;
+          h[hand].y = ROW[num];
+          return hand;
+        } else if (distL < distR) {
+          h.L.x = COLUMN.CENTER;
+          h.L.y = ROW[num];
+          return "L";
+        } else {
+          h.R.x = COLUMN.CENTER;
+          h.R.y = ROW[num];
+          return "R";
+        }
+      }
+    })
+    .join("");
+}

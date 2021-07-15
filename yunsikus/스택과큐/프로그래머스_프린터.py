@@ -1,4 +1,5 @@
 from collections import deque
+
 def solution(priorities, location):
     priorities = [(p,i) for i,p in enumerate(priorities)] 
     queue = deque(priorities)

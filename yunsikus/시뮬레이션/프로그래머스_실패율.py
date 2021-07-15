@@ -1,6 +1,5 @@
 from collections import Counter
 
-
 def solution(N, stages):
     count = Counter(stages)  # 각 스테이지까지 도달한 유저의 수
     rate = {}

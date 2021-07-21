@@ -1,5 +1,4 @@
 # Contents
----
 
 ## 자료구조
 
@@ -15,7 +14,7 @@
 
 ## 알고리즘
 
-- [재귀]
+- 재귀
   - [괄호변환](https://yunsikus.github.io/algorithm/2021/03/13/%EA%B4%84%ED%98%B8%EB%B3%80%ED%99%98/)
 
 ## 시뮬레이션

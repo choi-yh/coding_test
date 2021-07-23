@@ -18,7 +18,7 @@
   - [괄호변환](https://yunsikus.github.io/algorithm/2021/03/13/%EA%B4%84%ED%98%B8%EB%B3%80%ED%99%98/)
 
 - BFS
-  - [단어변환](https://yunsikus.github.io/algorithm/2021/05/23/%EB%8B%A8%EC%96%B4%EB%B3%80%ED%99%98/)
+  - [단어변환](https://yunsikus.github.io/algorithm/2021/05/23/%EB%8B%A8%EC%96%B4%EB%B3%80%ED%99%98/), [블록이동하기](https://yunsikus.github.io/algorithm/2021/05/22/%EB%B8%94%EB%A1%9D%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0/)
 
 ## 시뮬레이션
 - [키패드누르기](https://yunsikus.github.io/algorithm/2021/06/16/%ED%82%A4%ED%8C%A8%EB%93%9C%EB%88%84%EB%A5%B4%EA%B8%B0/)

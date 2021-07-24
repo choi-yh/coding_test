@@ -12,14 +12,14 @@
 
 |  #  |  ☆  | Problem                                                  | Note |
 | :-: | :-: | :------------------------------------------------------- | :--- |
-| 01  |     | [Programmers 기능개발](https://yunsikus.github.io/algorithm/2021/06/26/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C/) |      |
-| 02  |     | [Programmers 프린터](https://yunsikus.github.io/algorithm/2021/06/27/%ED%94%84%EB%A6%B0%ED%84%B0/) |      |
-| 03  |     | [Programmers 거리두기 확인하기](https://yunsikus.github.io/algorithm/2021/07/16/%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0/)          |      |
+| 01  |     | [Programmers 거리두기 확인하기](https://yunsikus.github.io/algorithm/2021/07/16/%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0/)          |      |
 
 #### [Queue](https://yunsikus.github.io/algorithm/2021/06/26/%EC%8A%A4%ED%83%9D%EA%B3%BC_%ED%81%90/)
 |  #  |  ☆  | Problem                                                  | Note |
 | :-: | :-: | :------------------------------------------------------- | :--- |
 | 01  |     | [Baekjun-3190 뱀](https://yunsikus.github.io/algorithm/2021/02/20/3190%EB%B1%80/) |      |
+| 02  |     | [Programmers 기능개발](https://yunsikus.github.io/algorithm/2021/06/26/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C/) |      |
+| 03  |     | [Programmers 프린터](https://yunsikus.github.io/algorithm/2021/07/01/%ED%94%84%EB%A6%B0%ED%84%B0/) |      |
 
 #### [Hash Map](https://yunsikus.github.io/algorithm/2021/07/13/%ED%95%B4%EC%89%AC%EB%A7%B5/)
 

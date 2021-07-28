@@ -70,7 +70,7 @@
 | :-: | :-: | :------------------------------------------------------- | :--- |
 | 01  |     | [Baekjun-14888 연산자 끼워넣기](https://yunsikus.github.io/algorithm/2021/01/26/algorithm14888/) |      |
 | 02  |     | [Baekjun-14503 로봇청소기](https://yunsikus.github.io/algorithm/2021/01/31/%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0/) |      |
-
+| 03  |     | [Programmers 타겟넘버](https://yunsikus.github.io/algorithm/2021/07/28/%ED%83%80%EA%B2%9F%EB%84%98%EB%B2%84/) |      |
 #### Binary Search
 
 |  #  |  ☆  | Problem                                                  | Note |

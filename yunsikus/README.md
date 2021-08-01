@@ -71,6 +71,15 @@
 | 01  |     | [Baekjun-14888 연산자 끼워넣기](https://yunsikus.github.io/algorithm/2021/01/26/algorithm14888/) |      |
 | 02  |     | [Baekjun-14503 로봇청소기](https://yunsikus.github.io/algorithm/2021/01/31/%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0/) |      |
 | 03  |     | [Programmers 타겟넘버](https://yunsikus.github.io/algorithm/2021/07/28/%ED%83%80%EA%B2%9F%EB%84%98%EB%B2%84/) |      |
+
+#### Greedy
+
+|  #  |  ☆  | Problem                                                  | Note |
+| :-: | :-: | :------------------------------------------------------- | :--- |
+| 01  |     | [Programmers 기지국설치](https://yunsikus.github.io/algorithm/2021/08/01/%EA%B8%B0%EC%A7%80%EA%B5%AD%EC%84%A4%EC%B9%98/) |      |
+
+
+
 #### Binary Search
 
 |  #  |  ☆  | Problem                                                  | Note |

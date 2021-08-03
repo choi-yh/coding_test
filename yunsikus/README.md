@@ -32,7 +32,7 @@
 |  #  |  ☆  | Problem                                                  | Note |
 | :-: | :-: | :------------------------------------------------------- | :--- |
 | 01  |     | [Programmers 더 맵게](https://yunsikus.github.io/algorithm/2021/02/04/%EB%8D%94%EB%A7%B5%EA%B2%8C/) |      |
-
+| 02  |     | [Programmers 배상비용최소화](https://yunsikus.github.io/algorithm/2021/08/04/%EB%B0%B0%EC%83%81%EB%B9%84%EC%9A%A9%EC%B5%9C%EC%86%8C%ED%99%94/) |      |
 #### Set
 
 |  #  |  ☆  | Problem                                                  | Note |

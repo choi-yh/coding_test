@@ -13,6 +13,7 @@
 |  #  |  ☆  | Problem                                                  | Note |
 | :-: | :-: | :------------------------------------------------------- | :--- |
 | 01  |     | [Programmers 거리두기 확인하기](https://yunsikus.github.io/algorithm/2021/07/16/%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0/)          |      |
+| 02  |     | [Programmers 다리를 지나는 트럭](https://yunsikus.github.io/algorithm/2021/08/05/%EB%8B%A4%EB%A6%AC%EB%8A%94%EC%A7%80%EB%82%98%EB%8A%94%ED%8A%B8%EB%9F%AD/)          |      |
 
 #### [Queue](https://yunsikus.github.io/algorithm/2021/06/26/%EC%8A%A4%ED%83%9D%EA%B3%BC_%ED%81%90/)
 |  #  |  ☆  | Problem                                                  | Note |

@@ -96,6 +96,7 @@
 |  #  |  ☆  | Problem                                                  | Note |
 | :-: | :-: | :------------------------------------------------------- | :--- |
 | 01  |     | [Baekjun-1976 여행가자](https://yunsikus.github.io/algorithm/2021/06/12/1976_%EC%97%AC%ED%96%89%EA%B0%80%EC%9E%90/) |  Union-Find    |
+| 02  |     | [Baekjun-1753 최단경로](https://yunsikus.github.io/algorithm/2021/08/12/1793-%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C/) |  Dijkstra    |
 
 #### Brute-Force
 

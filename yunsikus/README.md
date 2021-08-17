@@ -95,8 +95,9 @@
 
 |  #  |  ☆  | Problem                                                  | Note |
 | :-: | :-: | :------------------------------------------------------- | :--- |
-| 01  |     | [Baekjun-1976 여행가자](https://yunsikus.github.io/algorithm/2021/06/12/1976_%EC%97%AC%ED%96%89%EA%B0%80%EC%9E%90/) |  Union-Find    |
-| 02  |     | [Baekjun-1753 최단경로](https://yunsikus.github.io/algorithm/2021/08/12/1793-%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C/) |  Dijkstra    |
+| 01  |     | [Baekjun-1976 여행가자](https://yunsikus.github.io/algorithm/2021/06/12/1976_%EC%97%AC%ED%96%89%EA%B0%80%EC%9E%90/) |  [Union-Find](https://yunsikus.github.io/algorithm/2021/06/06/union_find_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/)    |
+| 02  |     | [Baekjun-1753 최단경로](https://yunsikus.github.io/algorithm/2021/08/12/1793-%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C/) |  [Dijkstra](https://yunsikus.github.io/algorithm/2021/08/09/%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/)    |
+| 03  |     | [프로그래머스 섬 연결하기](https://yunsikus.github.io/algorithm/2021/08/17/%EC%84%AC%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0/) |  [Kruskal](https://yunsikus.github.io/algorithm/2021/08/09/%ED%81%AC%EB%A3%A8%EC%8A%A4%EC%B9%BC%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/)    |
 
 #### Brute-Force
 

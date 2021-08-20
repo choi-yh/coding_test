@@ -36,6 +36,8 @@
 | :-: | :-: | :------------------------------------------------------- | :--- |
 | 01  |     | [Programmers 더 맵게](https://yunsikus.github.io/algorithm/2021/02/04/%EB%8D%94%EB%A7%B5%EA%B2%8C/) |      |
 | 02  |     | [Programmers 배상비용최소화](https://yunsikus.github.io/algorithm/2021/08/04/%EB%B0%B0%EC%83%81%EB%B9%84%EC%9A%A9%EC%B5%9C%EC%86%8C%ED%99%94/) |      |
+| 03  |     | [Programmers 디스크컨트롤러](https://yunsikus.github.io/algorithm/2021/08/20/%EB%94%94%EC%8A%A4%ED%81%AC%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC/) |      |
+
 #### Set
 
 |  #  |  ☆  | Problem                                                  | Note |

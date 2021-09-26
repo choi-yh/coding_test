@@ -1,9 +1,6 @@
 # https://www.acmicpc.net/problem/9663
-import sys
 
-n = int(sys.stdin.readline())
-answer = 0
-board = [0] * n
+import sys
 
 
 def check(row):
@@ -24,6 +21,10 @@ def queen(row):
             if check(row):
                 queen(row + 1)
 
+
+n = int(sys.stdin.readline())
+answer = 0
+board = [0] * n
 
 queen(0)
 print(answer)
